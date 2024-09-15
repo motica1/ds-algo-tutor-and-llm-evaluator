@@ -1,1 +1,1 @@
-# ds-algo-tutor-and-llm-evaluator
+# Data Structures and Algorithm Tutor
